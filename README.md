@@ -1,6 +1,6 @@
 # SDS (Sport Data Suite): A Comprehensive Platform for Sports Data Management
 
-![marathon](immagini/marathon.jpeg)
+![marathon](/marathon.jpeg)
 
 SDS is an advanced software suite developed in Java with the Eclipse framework, designed for the timing and analysis of sporting events. The platform stands out for its ability to integrate data from various sources, both hardware and software, to provide a complete and customizable experience.
 
@@ -12,7 +12,7 @@ SDS is an advanced software suite developed in Java with the Eclipse framework, 
 * **Flexible Data Export:** The platform allows data export in various formats, to meet the needs of different stakeholders.
 * **Online Communication:** SDS integrates APIs for online communication, facilitating data exchange and integration with other systems.
 
-![onwork](immagini/onwork.jpg)
+![onwork](/onwork.jpg)
 
 **Challenges and Solutions:**
 
